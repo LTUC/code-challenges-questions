@@ -42,9 +42,9 @@
 * Navigate to the challenge folder: `code-challenges/linkedlist/challenge02`
 * Write your solution in `challenge02.js` file.
 * Write your tests in `challenges02.test.js` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `npm test`
-* ACP your work once you are done.
-* Submit the pull request link
+
 
 ## Language: `Python`:
 
@@ -53,6 +53,12 @@
 * Navigate to the challenge folder: `code_challenges/linkedlist/challenge02`
 * Write your solution in `challenge02.py` file.
 * Write your tests in `test_challenges02.py` file.
-* To run your test: `pytest`
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.* To run your test: `pytest`
+
+## Submission:
 * ACP your work once you are done.
-* Submit the pull request link
+* Create a pull request from your branch to the `main` branch
+* Copy the link to your open pull request and paste it into the assignment submission field.
+* Leave a description of how long this assignment took you in the comments box.
+* Add any additional comments to your grader about your process or any difficulties you may have had with the assignment.
+* Merge your branch into main, and delete your branch (don't worry, the PR link will still work).
