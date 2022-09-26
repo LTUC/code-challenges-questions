@@ -53,7 +53,7 @@
 
 ### Language: `JavaScript`:
 
-* Create a branch called `ll_valid-parentheses`.
+* Create a branch called `stack_queue_valid-parentheses`.
 * Run this command to pull the code challenge question: `npm run pull-challenge stack_queue 02`
 * Navigate to the challenge folder: `code-challenges/stack_queue/challenge02`
 * Write your solution in `challenge02.js` file.
@@ -64,7 +64,7 @@
 
 ## Language: `Python`:
 
-* Create a branch called `ll_valid-parentheses`.
+* Create a branch called `stack_queue_valid-parentheses`.
 * Run this command to pull the code challenge question: `python pull.py stack_queue 02`
 * Navigate to the challenge folder: `code_challenges/stack_queue/challenge02`
 * Write your solution in `challenge02.py` file.

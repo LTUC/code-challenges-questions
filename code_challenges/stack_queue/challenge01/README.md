@@ -43,7 +43,7 @@ myQueue.empty(); // return false
 
 ### Language: `JavaScript`:
 
-* Create a branch called `ll_implement_queue`.
+* Create a branch called `stack_queue_implement_queue`.
 * Run this command to pull the code challenge question: `npm run pull-challenge stack_queue 01`
 * Navigate to the challenge folder: `code-challenges/stack_queue/challenge01`
 * Write your solution in `challenge01.js` file.
@@ -54,7 +54,7 @@ myQueue.empty(); // return false
 
 ## Language: `Python`:
 
-* Create a branch called `ll_implement_queue`.
+* Create a branch called `stack_queue_implement_queue`.
 * Run this command to pull the code challenge question: `python pull.py stack_queue 01`
 * Navigate to the challenge folder: `code_challenges/stack_queue/challenge01`
 * Write your solution in `challenge01.py` file.
