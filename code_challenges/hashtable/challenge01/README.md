@@ -2,30 +2,28 @@
 
 ## Challenge01 - Two Sum BST:
 
-# Two Sum in BST
 Write a function that takes a Binary Search tree and an integer as a parameter.
-Return True if Binary search tree has two elements that their summation is the given integer. 
-
-## Example 1:
-
+Return True if Binary search tree has two elements that their summation is the given integer.
+<h3> For example given the following Binary Search tree:</h3>
 <img src= ".../../../../../assets/hashmap-01.png" style="width: 300px; height: 215px;" />
 
-### Input: 
-``` root = [7,2,9,1,5,null,14], k = 3 ```
-### Output:   
-```true ```
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
+<pre><strong>Input:</strong> The previous Binary Search tree ==> root = [7,2,9,1,5,null,14], k = 3
+  
+<strong>Output:</strong> true
+</pre>
 
 
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
-## Example 2:
-<img src= "../..../../../../assets/hashmap-01.png" style="width: 300px; height: 215px;" />
-
-
-## Input:
-```root = [7,2,9,1,5,null,14], k = 4 ```
-
-## Output: 
-```false```
+<pre><strong>Input:</strong> The previous Binary Search tree ==> root = [7,2,9,1,5,null,14], k = 4
+  
+<strong>Output:</strong> true
+</pre>
 
 
 
