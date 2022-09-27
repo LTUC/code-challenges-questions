@@ -2,21 +2,25 @@
 
 ## Challenge02 - Repeated Word:
 
-Write a function that takes a string as a parameter. Return the first repeated word in a string.
+Write a function that will take a <strong>string</strong> as a parameter and return the <strong>first repeated word</strong> in that string.
 
-## Example 1:
-### Input:
-"ASAC is a department at LTUC. ASAC teaches programming in LTUC."
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
-### Output:
-```ASAC```
+<pre><strong>Input:</strong> ASAC is a department at LTUC. ASAC teaches programming in LTUC.
+  
+<strong>Output:</strong> ASAC
+</pre>
 
-## Example 2:
-### Input:
-"I am learning programming at ASAC"
+<p>&nbsp;</p>
+<p><strong>Example 2:</strong></p>
 
-### Output:
-```No Repetition```
+<pre><strong>Input:</strong> I am learning programming at ASAC.
+  
+<strong>Output:</strong> No Repetition
+</pre>
+
+
 ## Instruction:
 
 ### Language: `JavaScript`:
