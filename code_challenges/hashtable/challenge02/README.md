@@ -18,6 +18,14 @@ Write a function that will take a <strong>string</strong> as a parameter and ret
 <pre><strong>Input:</strong> I am learning programming at ASAC.
   
 <strong>Output:</strong> No Repetition
+
+<p>&nbsp;</p>
+<p><strong>Example 3:</strong></p>
+
+<pre><strong>Input:</strong> ASAC is a department at LTUC, It teaches programming in LTUC.
+  
+<strong>Output:</strong> LTUC
+
 </pre>
 
 
