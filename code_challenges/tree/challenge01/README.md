@@ -29,7 +29,7 @@
 * Run this command to pull the code challenge question: `npm run pull-challenge tree 01`
 * Navigate to the challenge folder: `code-challenges/tree/challenge01`
 * Write your solution in `challenge01.js` file.
-* Write your tests in `challenges01.test.js` file.
+* Write your tests in `challenge01.test.js` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `npm test`
 
@@ -40,7 +40,7 @@
 * Run this command to pull the code challenge question: `python pull.py tree 01`
 * Navigate to the challenge folder: `code_challenges/tree/challenge01`
 * Write your solution in `challenge01.py` file.
-* Write your tests in `test_challenges01.py` file.
+* Write your tests in `test_challenge01.py` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
