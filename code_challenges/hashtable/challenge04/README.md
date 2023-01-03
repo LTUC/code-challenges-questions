@@ -1,13 +1,22 @@
+# Hash Table:
 
-## Write a function that it takes two arrays of integers, Return array of their intersection, Each element in the result must be unique and you may return the result in any order.</p>
+## Challenge04 - Arrays Intersection:
 
-### Example 1:
+ Write a function that it takes two arrays of integers, Return array of their intersection, Each element in the result must be unique and you may return the result in any order.
+<br>
+
+## Example :
 ![](/assets/hashTable/arrayIntersection.jpg)
 
-<pre><strong>Input:</strong> names = ["1","2","2","1"], heights = [2,2]
-<strong>Output: </strong> [2]
+Input
+<pre>arr1 = ["1","2","2","1"], arr2 = [2,2]</pre>
 
-</pre>
+
+Output:
+```python
+[2]
+```
+<br>
 
 ## Instruction:
 

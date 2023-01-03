@@ -1,24 +1,39 @@
+# Graph:
 
-## Write a function that it takes a directed grapgh, Check if it is strongly connected or not.</p>
+## Challenge03 - strongly connected:
 
-**Hint:** **A directed graph is said to be strongly connected if every vertex is reachable from every other vertex.**
+Extend your graph class and add a method that takes a directed grapgh, Check if it is strongly connected or not.
 
-### Example 1:
+<strong>Hint: A directed graph is said to be strongly connected if every vertex is reachable from every other vertex.</strong>
+
+## Example 1
+  
 ![](/assets/graph/graphConnected1.jpg)
 
-<pre><strong>Input:</strong> numbers = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,4],[1,7],[7,3]]
-<strong>Output: </strong> Not strongly connected 
+Input
+<pre> numbers = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,4],[1,7],[7,3]]</pre>
 
-</pre>
 
-### Example 1:
 
+Output:
+```python
+Not strongly connected 
+```
+<br>
+
+## Example 2
 ![](/assets/graph/graphConnected2.jpg)
 
-<pre><strong>Input:</strong> numbers = [[1,2],[1,0],[0,4],[4,3],[3,2],[3,1],[2,1],[2,4]]
-<strong>Output: </strong> Strongly connected 
+Input
+<pre> numbers = [[1,2],[1,0],[0,4],[4,3],[3,2],[3,1],[2,1],[2,4]]</pre>
 
-</pre>
+
+
+Output:
+```python
+ Strongly connected 
+```
+<br><br>
 
 ## Instruction:
 

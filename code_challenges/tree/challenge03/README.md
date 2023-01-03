@@ -20,6 +20,8 @@
 <strong>Explanation:</strong> [1,null,3] and [3,1] are both height-balanced BSTs.
 </pre>
 
+<br>
+
 ## Instruction:
 
 ### Language: `JavaScript`:

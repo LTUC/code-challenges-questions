@@ -1,10 +1,17 @@
-## Write a function that it takes two values the fisrt one is a node in the linked list and the scond one is the new node, insert the new node after the old one.
+# Linkedlist:
 
-### Example 1:
+## Challenge05 - Insert After:
+Write a function that it takes two values the fisrt one is a node in the linked list and the scond one is the new node, insert the new node after the old one.
+
+&nbsp;
+
+## Example:
 ![](/assets/linked-list/insertAfter.jpg)
 <pre><strong>Input:</strong> before = 2 , after = 3
 <strong>Output:</strong> [1,2,3,4,5,6]
 </pre>
+
+<br>
 
 ## Instruction:
 

@@ -1,12 +1,18 @@
+# Tree:
 
-## Write a function that it takes a root of a tree, By using inorder traversing find and return the maximum value of the tree.</p>
+## Challenge04 - Find Max Of Tree:
+Write a function that it takes a root of a tree, By using inorder traversing find and return the maximum value of the tree.</p>
 
-### Example 1:
+&nbsp;
+
+## Example:
 ![](/assets/tree/findMax.jpg)
 
 <pre><strong>Input:</strong> tree = [1000, 500, 2000, 250, 600, 12000]
 <strong>Output: </strong>12000
 </pre>
+
+<br>
 
 ## Instruction:
 

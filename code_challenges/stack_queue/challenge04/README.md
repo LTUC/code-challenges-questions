@@ -1,12 +1,18 @@
+# Stack and Queue:
 
-## Write a function that it takes a queue, Reverse it and return the new queue.</p>
+## Challenge04 - Reverse Queue:
+Write a function that it takes a queue, Reverse it and return the new queue.</p>
 
-### Example 1:
+&nbsp;
+
+## Example:
 ![](/assets/Stack%26Queue/reverseQueue.jpg)
 
 <pre><strong>Input:</strong> queue = [5]->[4]->[3]->[2]->[1]
 <strong>Output:</strong> [1]->[2]->[3]->[4]->[5]
 </pre>
+
+<br>
 
 ## Instruction:
 

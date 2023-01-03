@@ -1,13 +1,20 @@
+# Linkedlist:
 
-## Write a function that it take a head of a linked list, reverse the list, and return the reversed list.</p>
+## Challenge04 - Reverse LinkedList:
 
-### Example 1:
+Write a function that it take a head of a linked list, reverse the list, and return the reversed list.</p>
+
+&nbsp;
+
+## Example:
 ![](/assets/linked-list/reverse.jpg)
 
 <pre><strong>Input:</strong> head = [1,2,3,4,5]
 <strong>Output:</strong> [5,4,3,2,1]
 </pre>
 
+<br>
+  
 ## Instruction:
 
 ### Language: `JavaScript`:
