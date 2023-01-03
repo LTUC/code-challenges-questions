@@ -1,19 +1,29 @@
+# Hash Table:
 
-## Write a function that it takes two arrays of integers, Return array of their intersection, Each element in the result must be unique and you may return the result in any order.</p>
+## Challenge04 - Sort People:
+Write a function that it takes two arrays people and heights, Reorder and return the people in descending order by their heights.
+<br>
 
-### Example 1:
-![](/assets/hashTable/arrayIntersection.jpg)
+&nbsp;
 
-<pre><strong>Input:</strong> names = ["1","2","2","1"], heights = [2,2]
-<strong>Output: </strong> [2]
+## Example :
+![](/assets/hashTable/sortpeople.jpg)
 
-</pre>
+Input
+<pre> names = ["Alice","Bob","Bob"], heights = [155,185,150]</pre>
+
+
+Output:
+```python
+["Bob","Alice","Bob"]
+```
+<br>
 
 ## Instruction:
 
 ### Language: `JavaScript`:
 
-* Create a branch called `arrayIntersection`.
+* Create a branch called `SortPeople`.
 * Run this command to pull the code challenge question: `npm run pull-challenge hashtable 04`
 * Navigate to the challenge folder: `code-challenges/hashtable/challenge04`
 * Write your solution in `challenge04.js` file.
@@ -23,7 +33,7 @@
 
 ## Language: `Python`:
 
-* Create a branch called `arrayIntersection`.
+* Create a branch called `SortPeople`.
 * Run this command to pull the code challenge question: `python pull.py hashtable 04`
 * Navigate to the challenge folder: `code_challenges/hashtable/challenge04`
 * Write your solution in `challenge04.py` file.
@@ -38,4 +48,6 @@
 * Leave a description of how long this assignment took you in the comments box.
 * Add any additional comments to your grader about your process or any difficulties you may have had with the assignment.
 * Merge your branch into main, and delete your branch (don't worry, the PR link will still work).
+
+
 

@@ -1,13 +1,21 @@
+# Hash Table:
 
-## Write a function that it takes two arrays people and heights, Reorder and return the people in descending order by their heights.</p>
+## Challenge03 - Sort People:
+ Write a function that it takes two arrays people and heights, Reorder and return the people in descending order by their heights.</p>
+<br>
 
-### Example 1:
+## Example:
 ![](/assets/hashTable/sortpeople.jpg)
 
-<pre><strong>Input:</strong> names = ["Alice","Bob","Bob"], heights = [155,185,150]
-<strong>Output: </strong> ["Bob","Alice","Bob"]
-</pre>
+Input
+<pre> names = ["Alice","Bob","Bob"], heights = [155,185,150]</pre>
 
+
+Output:
+```python
+["Bob","Alice","Bob"]
+```
+<br>
 
 ## Instruction:
 

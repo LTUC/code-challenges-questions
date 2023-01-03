@@ -40,7 +40,7 @@ myQueue.empty(); // return false
 * Run this command to pull the code challenge question: `npm run pull-challenge stack_queue 01`
 * Navigate to the challenge folder: `code-challenges/stack_queue/challenge01`
 * Write your solution in `challenge01.js` file.
-* Write your tests in `challenges01.test.js` file.
+* Write your tests in `challenge01.test.js` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `npm test`
 
@@ -51,7 +51,7 @@ myQueue.empty(); // return false
 * Run this command to pull the code challenge question: `python pull.py stack_queue 01`
 * Navigate to the challenge folder: `code_challenges/stack_queue/challenge01`
 * Write your solution in `challenge01.py` file.
-* Write your tests in `test_challenges01.py` file.
+* Write your tests in `test_challenge01.py` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 

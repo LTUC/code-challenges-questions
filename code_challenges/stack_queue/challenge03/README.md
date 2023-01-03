@@ -1,18 +1,24 @@
-## Write a function that it take a head of a Stack, Delete the middle elment in the stack, and return the new stack.</p>
+# Stack and Queue:
 
-### Example 1:
+## Challenge03 - Delete Middle Node:
+ Write a function that it take a head of a Stack, Delete the middle elment in the stack, and return the new stack.</p>
+
+&nbsp;
+
+## Example 1:
 ![](/assets/Stack%26Queue/delMid1.jpg)
 
 <pre><strong>Input:</strong> head = [1,2,3,4,5]
 <strong>Output:</strong> [1,2,4,5]
 </pre>
 
-### Example :
+## Example :
 ![](/assets/Stack%26Queue/delMid2.jpg)
 
 <pre><strong>Input:</strong> head = [1,2,3,4]
 <strong>Output:</strong> [1,3,4]
 </pre>
+<br>
 
 ## Instruction:
 

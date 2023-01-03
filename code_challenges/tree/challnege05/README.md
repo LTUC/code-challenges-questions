@@ -1,12 +1,18 @@
+# Tree:
 
-## Write a function that it takes a root of a tree, By using any order of traversing find and return the maximum height of the tree.</p>
+## Challenge05 - Maximum Height Of Tree:
+Write a function that it takes a root of a tree, By using any order of traversing find and return the maximum height of the tree.</p>
 
-### Example 1:
+&nbsp;
+
+## Example:
 ![](/assets/tree/height.jpg)
 
 <pre><strong>Input:</strong> tree = [10, 20, 30, 40, 28, 27, 50, 29]
 <strong>Output: </strong>3
 </pre>
+
+<br>
 
 ## Instruction:
 

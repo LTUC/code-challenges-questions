@@ -20,6 +20,8 @@
 <strong>Explanation:</strong> [1,null,3] and [3,1] are both height-balanced BSTs.
 </pre>
 
+<br>
+
 ## Instruction:
 
 ### Language: `JavaScript`:
@@ -28,7 +30,7 @@
 * Run this command to pull the code challenge question: `npm run pull-challenge tree 03`
 * Navigate to the challenge folder: `code-challenges/tree/challenge03`
 * Write your solution in `challenge03.js` file.
-* Write your tests in `challenges03.test.js` file.
+* Write your tests in `challenge03.test.js` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `npm test`
 
@@ -39,7 +41,7 @@
 * Run this command to pull the code challenge question: `python pull.py tree 03`
 * Navigate to the challenge folder: `code_challenges/tree/challenge03`
 * Write your solution in `challenge03.py` file.
-* Write your tests in `test_challenges03.py` file.
+* Write your tests in `test_challenge03.py` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 

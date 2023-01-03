@@ -30,7 +30,7 @@ Output:
 * Run this command to pull the code challenge question: `npm run pull-challenge graph 02`
 * Navigate to the challenge folder: `code-challenges/graph/challenge02`
 * Write your solution in `challenge02.js` file.
-* Write your tests in `challenges02.test.js` file.
+* Write your tests in `challenge02.test.js` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `npm test`
 
@@ -41,7 +41,7 @@ Output:
 * Run this command to pull the code challenge question: `python pull.py graph 02`
 * Navigate to the challenge folder: `code_challenges/graph/challenge02`
 * Write your solution in `challenge02.py` file.
-* Write your tests in `test_challenges02.py` file.
+* Write your tests in `test_challenge02.py` file.
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
