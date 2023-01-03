@@ -5,6 +5,8 @@
  Write a function that it takes two arrays of integers, Return array of their intersection, Each element in the result must be unique and you may return the result in any order.
 <br>
 
+&nbsp;
+
 ## Example :
 ![](/assets/hashTable/arrayIntersection.jpg)
 

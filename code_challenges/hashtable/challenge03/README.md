@@ -4,7 +4,7 @@
  Write a function that it takes two arrays people and heights, Reorder and return the people in descending order by their heights.</p>
 <br>
 
-## Example :
+## Example:
 ![](/assets/hashTable/sortpeople.jpg)
 
 Input

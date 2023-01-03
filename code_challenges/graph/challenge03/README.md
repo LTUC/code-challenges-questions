@@ -6,7 +6,9 @@ Extend your graph class and add a method that takes a directed grapgh, Check if 
 
 <strong>Hint: A directed graph is said to be strongly connected if every vertex is reachable from every other vertex.</strong>
 
-## Example 1
+&nbsp;
+
+## Example 1:
   
 ![](/assets/graph/graphConnected1.jpg)
 
@@ -21,7 +23,7 @@ Not strongly connected
 ```
 <br>
 
-## Example 2
+## Example 2:
 ![](/assets/graph/graphConnected2.jpg)
 
 Input
