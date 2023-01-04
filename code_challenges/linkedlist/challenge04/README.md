@@ -37,6 +37,16 @@ Write a function that it take a head of a linked list, reverse the list, and ret
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `reverseLinkedListe`.
+* Run this command to pull the code challenge question: `npm run pull-challenge linkedlist 04`
+* Navigate to the challenge folder: `code-challenges/linkedlist/challenge04`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
+
 ## Submission:
 * ACP your work once you are done.
 * Create a pull request from your branch to the `main` branch

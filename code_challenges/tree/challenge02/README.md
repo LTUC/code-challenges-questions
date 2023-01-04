@@ -50,6 +50,15 @@
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `tree_breadth-first`.
+* Run this command to pull the code challenge question: `npm run pull-challenge tree 02`
+* Navigate to the challenge folder: `code-challenges/tree/challenge02`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
 
 ## Submission:
 * ACP your work once you are done.

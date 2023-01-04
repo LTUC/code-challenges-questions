@@ -35,6 +35,16 @@ Write a function that it takes two values the fisrt one is a node in the linked 
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `insertAfter`.
+* Run this command to pull the code challenge question: `npm run pull-challenge linkedlist 05`
+* Navigate to the challenge folder: `code-challenges/linkedlist/challenge05`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
+
 ## Submission:
 * ACP your work once you are done.
 * Create a pull request from your branch to the `main` branch
