@@ -56,6 +56,16 @@
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `ll_remove-nth-node`.
+* Run this command to pull the code challenge question: `npm run pull-challenge linkedlist 03`
+* Navigate to the challenge folder: `code-challenges/linkedlist/challenge03`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
+
 ## Submission:
 * ACP your work once you are done.
 * Create a pull request from your branch to the `main` branch

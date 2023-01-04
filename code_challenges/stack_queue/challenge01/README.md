@@ -55,6 +55,15 @@ myQueue.empty(); // return false
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `stack_queue_implement_queue`.
+* Run this command to pull the code challenge question: `npm run pull-challenge stack_queue 01`
+* Navigate to the challenge folder: `code-challenges/stack_queue/challenge01`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
 
 ## Submission:
 * ACP your work once you are done.

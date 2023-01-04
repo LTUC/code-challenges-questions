@@ -5,7 +5,7 @@
 Write a function that takes a Binary Search tree and an integer as a parameter.
 Return True if Binary search tree has two elements that their summation is the given integer.
 <h3> For example given the following Binary Search tree:</h3>
-<img src= ".../../../../../assets/hashmap-01.png" style="width: 300px; height: 215px;" />
+<img src= "../../../assets/hashTable/hashmap-01.png" style="width: 300px; height: 215px;" />
 
 
 <p>&nbsp;</p>
@@ -50,6 +50,15 @@ Return True if Binary search tree has two elements that their summation is the g
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `hashtable_two_sum_BST`.
+* Run this command to pull the code challenge question: `npm run pull-challenge hashtable 01`
+* Navigate to the challenge folder: `code-challenges/hashtable/challenge01`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
 
 ## Submission:
 * ACP your work once you are done.

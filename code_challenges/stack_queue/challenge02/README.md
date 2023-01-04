@@ -66,6 +66,16 @@
 * Document your work along with an image of your whiteboard in the `whiteboard.md` file.
 * To run your test: `pytest`
 
+## Language: `Java`:
+
+* Create a branch called `stack_queue_valid-parentheses`.
+* Run this command to pull the code challenge question: `npm run pull-challenge stack_queue 02`
+* Navigate to the challenge folder: `code-challenges/stack_queue/challenge02`
+* Write your solution in `App.java` file.
+* Write your tests in `AppTest.java` file.
+* Document your work along with an image of your whiteboard in the `whiteboard.md` file.
+* To run your test: `gradle test`
+
 ## Submission:
 * ACP your work once you are done.
 * Create a pull request from your branch to the `main` branch
