@@ -1,19 +1,31 @@
 # Hash Table:
 
-## Challenge03 - Sort People:
- Write a function that it takes two arrays people and heights, Reorder and return the people in descending order by their heights.</p>
+## Challenge03 - Sum Of Unique Elements:
+ Write a function that it takes array, find the summation of unique elemts inside the array and return the summation.</p>
 <br>
+<strong>Unique elements of an array are the elements that appear exactly once in the array.</strong>
 
-## Example:
-![](/assets/hashTable/sortpeople.jpg)
+## Example 1:
 
 Input
-<pre> names = ["Alice","Bob","Bob"], heights = [155,185,150]</pre>
+<pre> nums = [1,2,3,2]</pre>
 
 
 Output:
 ```python
-["Bob","Alice","Bob"]
+4
+```
+<br>
+
+## Example 2:
+
+Input
+<pre> nums = [1,2,3,4,5]</pre>
+
+
+Output:
+```python
+15
 ```
 <br>
 
@@ -21,7 +33,7 @@ Output:
 
 ### Language: `JavaScript`:
 
-* Create a branch called `sortPeople`.
+* Create a branch called `uniqueElements`.
 * Run this command to pull the code challenge question: `npm run pull-challenge hashtable 03`
 * Navigate to the challenge folder: `code-challenges/hashtable/challenge03`
 * Write your solution in `challenge03.js` file.
@@ -31,7 +43,7 @@ Output:
 
 ## Language: `Python`:
 
-* Create a branch called `sortPeople`.
+* Create a branch called `uniqueElements`.
 * Run this command to pull the code challenge question: `python pull.py hashtable 03`
 * Navigate to the challenge folder: `code_challenges/hashtable/challenge03`
 * Write your solution in `challenge03.py` file.
